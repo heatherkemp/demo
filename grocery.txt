@@ -3,3 +3,6 @@ bananas
 cereal
 soup
 pasta
+bread
+ice cream
+
