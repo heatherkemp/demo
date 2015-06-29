@@ -1,6 +1,5 @@
 apples
 bananas
-spinach
 cereal
 soup
 pasta
